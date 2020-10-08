@@ -5,7 +5,7 @@
 # virsh net-autostart --network default
 # virsh net-start --network default
 
-# Check the OS of you VM with : osinfo-query os
+# Check the OS of your VM with : osinfo-query os
 
 #!/bin/bash
 
