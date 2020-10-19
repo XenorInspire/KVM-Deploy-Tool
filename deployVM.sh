@@ -48,7 +48,7 @@ select rep in raw vmdk qcow2
 	if [ "$rep" = "qcow2" ]
 	then
 
-        formatVHD=qcow27
+        formatVHD="qcow2"
         break
 
 	fi
