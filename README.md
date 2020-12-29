@@ -4,7 +4,7 @@ Script to quickly install a virtual machine with KVM hypervisor
 
 ## Requirements
 
-Install these packages first :
+Install these packages first :<br>
 `qemu-kvm libvirt-clients libvirt-daemon-system bridge-utils libguestfs-tools genisoimage virtinst libosinfo-bin virt-manager`
 
 ## Installation
